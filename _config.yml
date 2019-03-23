@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Cosson Pierre"
-  avatar           : # "/assets/images/profil.png
-  bio              : "trying hard"
+  avatar           : "/assets/images/profil.png"
+  bio              : "En prestation pour l'inserm"
   location         : "Toulouse"
   email            :
   links:
