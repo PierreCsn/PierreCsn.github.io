@@ -282,10 +282,8 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       author_profile: true
@@ -294,17 +292,4 @@ defaults:
       share: true
       related: true
       overlay_image: /assets/images/header.jpg
-    classes: - dark-theme 
-
-      
-defaults:   
- # _pages
-  - scope:
-      path: ""
-      type: pages
-    header:
-      overlay_image: /assets/images/header.jpg
-    classes: - dark-theme 
-    values:
-      layout: single
-      author_profile: true      
+      classes: - dark-theme 
