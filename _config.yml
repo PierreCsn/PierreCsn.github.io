@@ -294,6 +294,7 @@ defaults:
       share: true
       related: true
       overlay_image: /assets/images/header.jpg
+    classes: - dark-theme 
 
       
 defaults:   
@@ -303,7 +304,7 @@ defaults:
       type: pages
     header:
       overlay_image: /assets/images/header.jpg
-      
+    classes: - dark-theme 
     values:
       layout: single
       author_profile: true      
