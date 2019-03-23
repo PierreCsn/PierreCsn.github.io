@@ -293,13 +293,13 @@ defaults:
       comments: # true
       share: true
       related: true
-
-      
-defaults :
   # _pages
   - scope:
       path: ""
       type: pages
+    header:
+      overlay_image: /assets/images/header.jpg
+      
     values:
       layout: single
       author_profile: true      
