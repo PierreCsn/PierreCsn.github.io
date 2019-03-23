@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Mon premier post"
 ---
 
-# Welcome
+# Mon premier post
 
 my first post
