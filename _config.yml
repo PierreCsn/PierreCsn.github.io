@@ -293,7 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _pages
+      overlay_image: /assets/images/header.jpg
+
+      
+defaults:   
+ # _pages
   - scope:
       path: ""
       type: pages
